@@ -1,6 +1,8 @@
 # unity-pinch-zoom-example
 Example project showing integration of mobile pinching and zooming in Unity.
 
+![drag and pinch zoom](https://github.com/mklewandowski/unity-pinch-zoom-example/blob/main/Assets/Images/pinch-zoom.gif?raw=true)
+
 ## Running Locally
 Use the following steps to run locally:
 1. Clone this repo
