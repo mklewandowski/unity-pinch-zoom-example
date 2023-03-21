@@ -18,8 +18,12 @@ This repo has been tested for use on the following platforms:
 
 ## Credits
 Pinch and Zoom is based on the following two Unity tutorials:
-https://www.youtube.com/watch?v=BFX3FpUnoio
-https://www.youtube.com/watch?v=K_aAnBn5khA
+
+[https://www.youtube.com/watch?v=BFX3FpUnoio](https://www.youtube.com/watch?v=BFX3FpUnoio)
+
+[https://www.youtube.com/watch?v=K_aAnBn5khA](https://www.youtube.com/watch?v=K_aAnBn5khA)
 
 Image courtesy of NASA:
-https://mars.nasa.gov/resources/25962/mastcam-zs-360-degree-view-of-van-zyl-overlook/
+
+[https://mars.nasa.gov/resources/25962/mastcam-zs-360-degree-view-of-van-zyl-overlook/](https://mars.nasa.gov/resources/25962/mastcam-zs-360-degree-view-of-van-zyl-overlook/)
+
